@@ -1,0 +1,4 @@
+{
+  "tft_weight": 0.85,
+  "xgboost_weight": 0.15
+}

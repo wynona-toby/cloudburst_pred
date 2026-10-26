@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+joblib
+scikit-learn
+xgboost
+shap
+torch
+lightning
+pytorch-forecasting
